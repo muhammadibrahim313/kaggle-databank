@@ -18,6 +18,7 @@ This repository contains **13 datasets** covering different domains:
 10. **💵 wb_gdp_per_capita_constant.csv** - World Bank GDP per capita
 11. **👥 wb_population_total.csv** - World Bank population data
 12. **🎓 wikidata_universities_sample.csv** - University data sample
+13. **Nvidia Stocks**: in Folder from 1999 to 2025 ( multi-timeframe)
 
 ## How to Use 🚀
 
